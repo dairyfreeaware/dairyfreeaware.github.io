@@ -15,13 +15,6 @@ font-family:arial;
 padding:2%;
 }
 
-nav{
-text-align:center;
-background-image:url("df-symbols.png");
-border-radius: 0 0 2vh 2vh;
-padding:2%;
-}
-
 nav a{
 display:inline-block;
 background:#04066f;
@@ -31,6 +24,13 @@ margin:2%;
 padding:1% 2%;
 border-radius:1vh;
 font-size:125%;
+}
+
+nav{
+text-align:center;
+background-image:url("df-symbols.png");
+border-radius: 0 0 2vh 2vh;
+padding:2%;
 }
 
 .active{
