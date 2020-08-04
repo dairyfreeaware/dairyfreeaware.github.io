@@ -17,6 +17,9 @@ padding:2%;
 
 nav{
 text-align:center;
+background-image:url("df-symbols.png");
+border-radius: 0 0 2vh 2vh;
+padding:2%;
 }
 
 nav a{
